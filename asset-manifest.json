@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/learnit/static/css/main.d5900418.css",
+    "main.js": "/learnit/static/js/main.f9538eb5.js",
+    "index.html": "/learnit/index.html",
+    "static/media/slick.svg": "/learnit/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/learnit/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/learnit/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/learnit/static/media/slick.295183786cd8a1389865.woff",
+    "main.d5900418.css.map": "/learnit/static/css/main.d5900418.css.map",
+    "main.f9538eb5.js.map": "/learnit/static/js/main.f9538eb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5900418.css",
+    "static/js/main.f9538eb5.js"
+  ]
+}
